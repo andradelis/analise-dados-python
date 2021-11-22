@@ -28,7 +28,7 @@ conda activate modclim5
 
 O notebook pode ser executado através do `vscode` (certifique-se de que a sua versão possui suporte à notebooks) OU executando o comando `jupyter lab` no terminal com seu ambiente conda ativo.
 
-## Dúvidas, sugestões, contato
+## :mailbox_with_mail: Dúvidas, sugestões, contato
 
 Sinta-se livre para subir uma issue no repositório ou enviar um e-mail para `andradelis@id.uff.br`, caso prefira. :)
 
